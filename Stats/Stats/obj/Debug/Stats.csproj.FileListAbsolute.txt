@@ -1,0 +1,9 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\Stats\Stats\bin\Debug\Stats.exe.config
+c:\users\jarrik\documents\visual studio 2015\Projects\Stats\Stats\bin\Debug\Stats.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\Stats\Stats\bin\Debug\Stats.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\Stats\Stats\obj\Debug\Stats.csprojResolveAssemblyReference.cache
+c:\users\jarrik\documents\visual studio 2015\Projects\Stats\Stats\obj\Debug\Stats.Form1.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\Stats\Stats\obj\Debug\Stats.Properties.Resources.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\Stats\Stats\obj\Debug\Stats.csproj.GenerateResource.Cache
+c:\users\jarrik\documents\visual studio 2015\Projects\Stats\Stats\obj\Debug\Stats.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\Stats\Stats\obj\Debug\Stats.pdb

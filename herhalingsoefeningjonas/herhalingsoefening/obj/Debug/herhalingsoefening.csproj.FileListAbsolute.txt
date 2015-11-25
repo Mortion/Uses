@@ -1,0 +1,43 @@
+c:\users\12675\documents\visual studio 2013\Projects\herhalingsoefening\herhalingsoefening\bin\Debug\herhalingsoefening.exe.config
+c:\users\12675\documents\visual studio 2013\Projects\herhalingsoefening\herhalingsoefening\bin\Debug\herhalingsoefening.exe
+c:\users\12675\documents\visual studio 2013\Projects\herhalingsoefening\herhalingsoefening\bin\Debug\herhalingsoefening.pdb
+c:\users\12675\documents\visual studio 2013\Projects\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.csprojResolveAssemblyReference.cache
+c:\users\12675\documents\visual studio 2013\Projects\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.frmProductDetail.resources
+c:\users\12675\documents\visual studio 2013\Projects\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.frmWinkeltje.resources
+c:\users\12675\documents\visual studio 2013\Projects\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.Properties.Resources.resources
+c:\users\12675\documents\visual studio 2013\Projects\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.csproj.GenerateResource.Cache
+c:\users\12675\documents\visual studio 2013\Projects\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.exe
+c:\users\12675\documents\visual studio 2013\Projects\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.pdb
+C:\Users\Jonas\Documents\herhalingsoefening\herhalingsoefening\bin\Debug\herhalingsoefening.exe.config
+C:\Users\Jonas\Documents\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.exe
+C:\Users\Jonas\Documents\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.pdb
+C:\Users\Jonas\Documents\herhalingsoefening\herhalingsoefening\bin\Debug\herhalingsoefening.exe
+C:\Users\Jonas\Documents\herhalingsoefening\herhalingsoefening\bin\Debug\herhalingsoefening.pdb
+C:\Users\Jonas\Documents\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Documents\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.frmProductDetail.resources
+C:\Users\Jonas\Documents\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.frmWinkeltje.resources
+C:\Users\Jonas\Documents\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.Properties.Resources.resources
+C:\Users\Jonas\Documents\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.csproj.GenerateResource.Cache
+C:\Users\12675\Desktop\herhalingsoefening\herhalingsoefening\bin\Debug\herhalingsoefening.exe.config
+C:\Users\12675\Desktop\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.exe
+C:\Users\12675\Desktop\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.pdb
+C:\Users\12675\Desktop\herhalingsoefening\herhalingsoefening\bin\Debug\herhalingsoefening.exe
+C:\Users\12675\Desktop\herhalingsoefening\herhalingsoefening\bin\Debug\herhalingsoefening.pdb
+C:\Users\12675\Desktop\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.csprojResolveAssemblyReference.cache
+C:\Users\12675\Desktop\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.frmProductDetail.resources
+C:\Users\12675\Desktop\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.frmWinkeltje.resources
+C:\Users\12675\Desktop\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.Properties.Resources.resources
+C:\Users\12675\Desktop\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.csproj.GenerateResource.Cache
+C:\Users\12675\Desktop\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.frmQuantity.resources
+C:\Users\Jonas\Documents\herhalingsoefening\herhalingsoefening\obj\Debug\herhalingsoefening.frmQuantity.resources
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\herhalingsoefeningjonas\herhalingsoefening\bin\Debug\herhalingsoefening.exe.config
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\herhalingsoefeningjonas\herhalingsoefening\obj\Debug\herhalingsoefening.exe
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\herhalingsoefeningjonas\herhalingsoefening\obj\Debug\herhalingsoefening.csprojResolveAssemblyReference.cache
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\herhalingsoefeningjonas\herhalingsoefening\obj\Debug\herhalingsoefening.frmProductDetail.resources
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\herhalingsoefeningjonas\herhalingsoefening\obj\Debug\herhalingsoefening.frmQuantity.resources
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\herhalingsoefeningjonas\herhalingsoefening\obj\Debug\herhalingsoefening.frmWinkeltje.resources
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\herhalingsoefeningjonas\herhalingsoefening\obj\Debug\herhalingsoefening.Properties.Resources.resources
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\herhalingsoefeningjonas\herhalingsoefening\obj\Debug\herhalingsoefening.csproj.GenerateResource.Cache
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\herhalingsoefeningjonas\herhalingsoefening\bin\Debug\herhalingsoefening.exe
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\herhalingsoefeningjonas\herhalingsoefening\bin\Debug\herhalingsoefening.pdb
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\herhalingsoefeningjonas\herhalingsoefening\obj\Debug\herhalingsoefening.pdb

@@ -1,0 +1,8 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\VisualCSharp2013Boek\VisualCSharp2013Boek\bin\Debug\VisualCSharp2013Boek.exe.config
+c:\users\jarrik\documents\visual studio 2015\Projects\VisualCSharp2013Boek\VisualCSharp2013Boek\bin\Debug\VisualCSharp2013Boek.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\VisualCSharp2013Boek\VisualCSharp2013Boek\bin\Debug\VisualCSharp2013Boek.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\VisualCSharp2013Boek\VisualCSharp2013Boek\obj\Debug\VisualCSharp2013Boek.MainForm.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\VisualCSharp2013Boek\VisualCSharp2013Boek\obj\Debug\VisualCSharp2013Boek.Properties.Resources.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\VisualCSharp2013Boek\VisualCSharp2013Boek\obj\Debug\VisualCSharp2013Boek.csproj.GenerateResource.Cache
+c:\users\jarrik\documents\visual studio 2015\Projects\VisualCSharp2013Boek\VisualCSharp2013Boek\obj\Debug\VisualCSharp2013Boek.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\VisualCSharp2013Boek\VisualCSharp2013Boek\obj\Debug\VisualCSharp2013Boek.pdb

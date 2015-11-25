@@ -1,0 +1,5 @@
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\BeertjesLibrary\bin\Debug\BeertjesLibrary.dll
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\BeertjesLibrary\bin\Debug\BeertjesLibrary.pdb
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\BeertjesLibrary\obj\Debug\BeertjesLibrary.dll
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\BeertjesLibrary\obj\Debug\BeertjesLibrary.pdb
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\BeertjesLibrary\obj\Debug\BeertjesLibrary.csprojResolveAssemblyReference.cache

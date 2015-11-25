@@ -1,0 +1,10 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\EntityFramework01\EntityFramework01\bin\Debug\EntityFramework01.exe.config
+c:\users\jarrik\documents\visual studio 2015\Projects\EntityFramework01\EntityFramework01\bin\Debug\EntityFramework01.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\EntityFramework01\EntityFramework01\bin\Debug\EntityFramework01.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\EntityFramework01\EntityFramework01\bin\Debug\EntityFramework.dll
+c:\users\jarrik\documents\visual studio 2015\Projects\EntityFramework01\EntityFramework01\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jarrik\documents\visual studio 2015\Projects\EntityFramework01\EntityFramework01\bin\Debug\EntityFramework.xml
+c:\users\jarrik\documents\visual studio 2015\Projects\EntityFramework01\EntityFramework01\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jarrik\documents\visual studio 2015\Projects\EntityFramework01\EntityFramework01\obj\Debug\EntityFramework01.csprojResolveAssemblyReference.cache
+c:\users\jarrik\documents\visual studio 2015\Projects\EntityFramework01\EntityFramework01\obj\Debug\EntityFramework01.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\EntityFramework01\EntityFramework01\obj\Debug\EntityFramework01.pdb

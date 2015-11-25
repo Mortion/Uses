@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerhalingsOefeningJarrikVanCampLuchthaven", "HerhalingsOefeningJarrikVanCampLuchthaven\HerhalingsOefeningJarrikVanCampLuchthaven.csproj", "{6EEF0F7D-11E5-4D5C-82FA-00175ED5B027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportLibrary", "LuchthavenLibrary\AirportLibrary.csproj", "{03D2E775-B41D-4E9C-BCBE-E83B6324C657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EEF0F7D-11E5-4D5C-82FA-00175ED5B027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EEF0F7D-11E5-4D5C-82FA-00175ED5B027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EEF0F7D-11E5-4D5C-82FA-00175ED5B027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EEF0F7D-11E5-4D5C-82FA-00175ED5B027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D2E775-B41D-4E9C-BCBE-E83B6324C657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D2E775-B41D-4E9C-BCBE-E83B6324C657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D2E775-B41D-4E9C-BCBE-E83B6324C657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D2E775-B41D-4E9C-BCBE-E83B6324C657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

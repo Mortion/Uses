@@ -1,0 +1,11 @@
+C:\Users\basshari\Downloads\SharpFtpServer (1)\SharpFtpServer\bin\Debug\SharpFtpServer.exe.config
+C:\Users\basshari\Downloads\SharpFtpServer (1)\SharpFtpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\Server\SharpFtpServer\bin\Debug\SharpFtpServer.exe.config
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\Server\SharpFtpServer\obj\x86\Debug\SharpFtpServer.csprojResolveAssemblyReference.cache
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\Server\SharpFtpServer\bin\Debug\SharpFtpServer.log4net
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\Server\SharpFtpServer\bin\Debug\log4net.dll
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\Server\SharpFtpServer\bin\Debug\log4net.xml
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\Server\SharpFtpServer\obj\x86\Debug\SharpFtpServer.exe
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\Server\SharpFtpServer\obj\x86\Debug\SharpFtpServer.pdb
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\Server\SharpFtpServer\bin\Debug\SharpFtpServer.exe
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\Server\SharpFtpServer\bin\Debug\SharpFtpServer.pdb

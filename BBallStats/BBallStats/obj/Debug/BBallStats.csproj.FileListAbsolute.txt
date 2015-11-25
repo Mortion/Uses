@@ -1,0 +1,14 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BBallStats\bin\Debug\BBallStats.exe.config
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BBallStats\bin\Debug\BBallStats.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BBallStats\bin\Debug\BBallStats.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BBallStats\obj\Debug\BBallStats.csprojResolveAssemblyReference.cache
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BBallStats\obj\Debug\BBallStats.frmInitPlayers.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BBallStats\obj\Debug\BBallStats.MainForm.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BBallStats\obj\Debug\BBallStats.Properties.Resources.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BBallStats\obj\Debug\BBallStats.csproj.GenerateResource.Cache
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BBallStats\obj\Debug\BBallStats.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BBallStats\obj\Debug\BBallStats.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BBallStats\bin\Debug\BasketballLibrary.dll
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BBallStats\bin\Debug\BasketballLibrary.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BBallStats\obj\Debug\BBallStats.frmGameTime.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BBallStats\obj\Debug\BBallStats.frmScore.resources

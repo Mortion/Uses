@@ -1,0 +1,16 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\bin\Debug\FactuurManipulatie.exe.config
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\bin\Debug\FactuurManipulatie.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\bin\Debug\FactuurManipulatie.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\obj\Debug\FactuurManipulatie.csprojResolveAssemblyReference.cache
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\obj\Debug\MainWindow.g.cs
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\obj\Debug\App.g.cs
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\obj\Debug\FactuurManipulatie_MarkupCompile.cache
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\obj\Debug\FactuurManipulatie_MarkupCompile.lref
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\obj\Debug\MainWindow.baml
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\obj\Debug\FactuurManipulatie.g.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\obj\Debug\FactuurManipulatie.Properties.Resources.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\obj\Debug\FactuurManipulatie.csproj.GenerateResource.Cache
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\obj\Debug\FactuurManipulatie.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\obj\Debug\FactuurManipulatie.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\bin\Debug\ItemsLibrary.dll
+c:\users\jarrik\documents\visual studio 2015\Projects\FactuurManipulatie\FactuurManipulatie\bin\Debug\ItemsLibrary.pdb

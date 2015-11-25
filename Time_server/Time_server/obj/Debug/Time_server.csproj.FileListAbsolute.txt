@@ -1,0 +1,1 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\Time_server\Time_server\bin\Debug\Time_server.exe.config

@@ -1,0 +1,8 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\DynamicSQL\DynamicSQL\bin\Debug\DynamicSQL.exe.config
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\DynamicSQL\DynamicSQL\bin\Debug\DynamicSQL.exe
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\DynamicSQL\DynamicSQL\bin\Debug\DynamicSQL.pdb
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\DynamicSQL\DynamicSQL\bin\Debug\DynaDataAccesLibrary.dll
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\DynamicSQL\DynamicSQL\bin\Debug\DynaDataAccesLibrary.pdb
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\DynamicSQL\DynamicSQL\obj\Debug\DynamicSQL.csprojResolveAssemblyReference.cache
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\DynamicSQL\DynamicSQL\obj\Debug\DynamicSQL.exe
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\DynamicSQL\DynamicSQL\obj\Debug\DynamicSQL.pdb

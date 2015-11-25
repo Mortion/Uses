@@ -1,0 +1,5 @@
+C:\Users\jarrik\documents\visual studio 2015\Projects\UsesLibrary\UsesLibrary\bin\Debug\UsesLibrary.dll
+C:\Users\jarrik\documents\visual studio 2015\Projects\UsesLibrary\UsesLibrary\bin\Debug\UsesLibrary.pdb
+C:\Users\jarrik\documents\visual studio 2015\Projects\UsesLibrary\UsesLibrary\obj\Debug\UsesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\jarrik\documents\visual studio 2015\Projects\UsesLibrary\UsesLibrary\obj\Debug\UsesLibrary.dll
+C:\Users\jarrik\documents\visual studio 2015\Projects\UsesLibrary\UsesLibrary\obj\Debug\UsesLibrary.pdb

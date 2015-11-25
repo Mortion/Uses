@@ -1,0 +1,8 @@
+C:\Users\jarrik\documents\visual studio 2015\Projects\UsesLibrary\Test\bin\Debug\Test.exe.config
+C:\Users\jarrik\documents\visual studio 2015\Projects\UsesLibrary\Test\bin\Debug\Test.exe
+C:\Users\jarrik\documents\visual studio 2015\Projects\UsesLibrary\Test\bin\Debug\Test.pdb
+C:\Users\jarrik\documents\visual studio 2015\Projects\UsesLibrary\Test\bin\Debug\UsesLibrary.dll
+C:\Users\jarrik\documents\visual studio 2015\Projects\UsesLibrary\Test\bin\Debug\UsesLibrary.pdb
+C:\Users\jarrik\documents\visual studio 2015\Projects\UsesLibrary\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\jarrik\documents\visual studio 2015\Projects\UsesLibrary\Test\obj\Debug\Test.exe
+C:\Users\jarrik\documents\visual studio 2015\Projects\UsesLibrary\Test\obj\Debug\Test.pdb

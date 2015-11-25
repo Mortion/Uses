@@ -1,0 +1,5 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BasketballLibrary\bin\Debug\BasketballLibrary.dll
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BasketballLibrary\bin\Debug\BasketballLibrary.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BasketballLibrary\obj\Debug\BasketballLibrary.csprojResolveAssemblyReference.cache
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BasketballLibrary\obj\Debug\BasketballLibrary.dll
+c:\users\jarrik\documents\visual studio 2015\Projects\BBallStats\BasketballLibrary\obj\Debug\BasketballLibrary.pdb

@@ -1,0 +1,9 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\Chat_Client\Chat_Client\bin\Debug\Chat_Client.exe.config
+c:\users\jarrik\documents\visual studio 2015\Projects\Chat_Client\Chat_Client\bin\Debug\Chat_Client.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\Chat_Client\Chat_Client\bin\Debug\Chat_Client.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\Chat_Client\Chat_Client\obj\Debug\Chat_Client.csprojResolveAssemblyReference.cache
+c:\users\jarrik\documents\visual studio 2015\Projects\Chat_Client\Chat_Client\obj\Debug\Chat_Client.frmMain.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\Chat_Client\Chat_Client\obj\Debug\Chat_Client.Properties.Resources.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\Chat_Client\Chat_Client\obj\Debug\Chat_Client.csproj.GenerateResource.Cache
+c:\users\jarrik\documents\visual studio 2015\Projects\Chat_Client\Chat_Client\obj\Debug\Chat_Client.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\Chat_Client\Chat_Client\obj\Debug\Chat_Client.pdb

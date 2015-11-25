@@ -1,0 +1,5 @@
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\DynamicSQL\DynaDataAccesLibrary\bin\Debug\DynaDataAccesLibrary.dll
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\DynamicSQL\DynaDataAccesLibrary\bin\Debug\DynaDataAccesLibrary.pdb
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\DynamicSQL\DynaDataAccesLibrary\obj\Debug\DynaDataAccesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\DynamicSQL\DynaDataAccesLibrary\obj\Debug\DynaDataAccesLibrary.dll
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\DynamicSQL\DynaDataAccesLibrary\obj\Debug\DynaDataAccesLibrary.pdb

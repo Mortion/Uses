@@ -1,0 +1,5 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\ProductLib\ProductLib\bin\Debug\ProductLib.dll
+c:\users\jarrik\documents\visual studio 2015\Projects\ProductLib\ProductLib\bin\Debug\ProductLib.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\ProductLib\ProductLib\obj\Debug\ProductLib.csprojResolveAssemblyReference.cache
+c:\users\jarrik\documents\visual studio 2015\Projects\ProductLib\ProductLib\obj\Debug\ProductLib.dll
+c:\users\jarrik\documents\visual studio 2015\Projects\ProductLib\ProductLib\obj\Debug\ProductLib.pdb

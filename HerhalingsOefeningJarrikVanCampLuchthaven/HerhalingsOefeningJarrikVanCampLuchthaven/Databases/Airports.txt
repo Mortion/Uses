@@ -1,0 +1,5 @@
+Belgie|Zaventem
+Belgie|Brussel
+Belgie|Charleroi
+Belgie|Oostende
+Nederland|Schiphol

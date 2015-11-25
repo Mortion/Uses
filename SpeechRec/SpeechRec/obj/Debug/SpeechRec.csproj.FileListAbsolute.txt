@@ -1,0 +1,9 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\SpeechRec\bin\Debug\SpeechRec.exe.config
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\SpeechRec\bin\Debug\SpeechRec.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\SpeechRec\bin\Debug\SpeechRec.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\SpeechRec\obj\Debug\SpeechRec.csprojResolveAssemblyReference.cache
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\SpeechRec\obj\Debug\SpeechRec.frmMain.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\SpeechRec\obj\Debug\SpeechRec.Properties.Resources.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\SpeechRec\obj\Debug\SpeechRec.csproj.GenerateResource.Cache
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\SpeechRec\obj\Debug\SpeechRec.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\SpeechRec\obj\Debug\SpeechRec.pdb

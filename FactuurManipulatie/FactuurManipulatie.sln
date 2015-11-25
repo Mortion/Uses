@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactuurManipulatie", "FactuurManipulatie\FactuurManipulatie.csproj", "{2AF25A1B-7E70-47F0-B8A5-7D2B997A84DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemsLibrary", "ItemsLibrary\ItemsLibrary.csproj", "{AF836C5B-6D50-4314-904B-CB221B9CFEC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF25A1B-7E70-47F0-B8A5-7D2B997A84DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF25A1B-7E70-47F0-B8A5-7D2B997A84DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF25A1B-7E70-47F0-B8A5-7D2B997A84DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF25A1B-7E70-47F0-B8A5-7D2B997A84DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF836C5B-6D50-4314-904B-CB221B9CFEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF836C5B-6D50-4314-904B-CB221B9CFEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF836C5B-6D50-4314-904B-CB221B9CFEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF836C5B-6D50-4314-904B-CB221B9CFEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\InternetConnCheck\bin\Debug\InternetConnCheck.exe.config
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\InternetConnCheck\bin\Debug\InternetConnCheck.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\InternetConnCheck\bin\Debug\InternetConnCheck.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\InternetConnCheck\obj\Debug\InternetConnCheck.Form1.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\InternetConnCheck\obj\Debug\InternetConnCheck.Properties.Resources.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\InternetConnCheck\obj\Debug\InternetConnCheck.csproj.GenerateResource.Cache
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\InternetConnCheck\obj\Debug\InternetConnCheck.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\SpeechRec\InternetConnCheck\obj\Debug\InternetConnCheck.pdb

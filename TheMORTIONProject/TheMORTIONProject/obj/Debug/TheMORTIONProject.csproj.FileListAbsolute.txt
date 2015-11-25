@@ -1,0 +1,13 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\TheMORTIONProject\TheMORTIONProject\bin\Debug\TheMORTIONProject.exe.config
+c:\users\jarrik\documents\visual studio 2015\Projects\TheMORTIONProject\TheMORTIONProject\bin\Debug\TheMORTIONProject.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\TheMORTIONProject\TheMORTIONProject\bin\Debug\TheMORTIONProject.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\TheMORTIONProject\TheMORTIONProject\obj\Debug\TheMORTIONProject.frmMORTION.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\TheMORTIONProject\TheMORTIONProject\obj\Debug\TheMORTIONProject.MORTION_EYE.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\TheMORTIONProject\TheMORTIONProject\obj\Debug\TheMORTIONProject.Properties.Resources.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\TheMORTIONProject\TheMORTIONProject\obj\Debug\TheMORTIONProject.csproj.GenerateResource.Cache
+c:\users\jarrik\documents\visual studio 2015\Projects\TheMORTIONProject\TheMORTIONProject\obj\Debug\TheMORTIONProject.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\TheMORTIONProject\TheMORTIONProject\obj\Debug\TheMORTIONProject.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\TheMORTIONProject\TheMORTIONProject\obj\Debug\TheMORTIONProject.grpDateTimeWeather.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\TheMORTIONProject\TheMORTIONProject\obj\Debug\TheMORTIONProject.DigitalClock.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\TheMORTIONProject\TheMORTIONProject\obj\Debug\TheMORTIONProject.Date.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\TheMORTIONProject\TheMORTIONProject\obj\Debug\TheMORTIONProject.csprojResolveAssemblyReference.cache

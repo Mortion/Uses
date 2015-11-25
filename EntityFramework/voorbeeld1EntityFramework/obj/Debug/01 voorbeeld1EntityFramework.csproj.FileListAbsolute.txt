@@ -1,0 +1,10 @@
+c:\users\12695\documents\visual studio 2013\Projects\EntityFramework\voorbeeld1EntityFramework\bin\Debug\voorbeeld1EntityFramework.exe.config
+c:\users\12695\documents\visual studio 2013\Projects\EntityFramework\voorbeeld1EntityFramework\bin\Debug\voorbeeld1EntityFramework.exe
+c:\users\12695\documents\visual studio 2013\Projects\EntityFramework\voorbeeld1EntityFramework\bin\Debug\voorbeeld1EntityFramework.pdb
+c:\users\12695\documents\visual studio 2013\Projects\EntityFramework\voorbeeld1EntityFramework\bin\Debug\EntityFramework.dll
+c:\users\12695\documents\visual studio 2013\Projects\EntityFramework\voorbeeld1EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\12695\documents\visual studio 2013\Projects\EntityFramework\voorbeeld1EntityFramework\bin\Debug\EntityFramework.xml
+c:\users\12695\documents\visual studio 2013\Projects\EntityFramework\voorbeeld1EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\12695\documents\visual studio 2013\Projects\EntityFramework\voorbeeld1EntityFramework\obj\Debug\voorbeeld1EntityFramework.exe
+c:\users\12695\documents\visual studio 2013\Projects\EntityFramework\voorbeeld1EntityFramework\obj\Debug\voorbeeld1EntityFramework.pdb
+C:\Users\12695\Documents\Visual Studio 2013\Projects\EntityFramework\voorbeeld1EntityFramework\obj\Debug\01 voorbeeld1EntityFramework.csprojResolveAssemblyReference.cache

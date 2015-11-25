@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeTuinkamer", "DeTuinkamer\DeTuinkamer.csproj", "{E30DF360-8F31-4759-A2B3-447188844EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErpLibrary", "ErpLibrary\ErpLibrary.csproj", "{413CF4DD-C1A7-4F9D-9874-B72B91FC8333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErpAlgoTest", "ErpAlgoTest\ErpAlgoTest.csproj", "{30D22708-FD4E-41BF-9ADE-6CC99FF98FA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E30DF360-8F31-4759-A2B3-447188844EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30DF360-8F31-4759-A2B3-447188844EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30DF360-8F31-4759-A2B3-447188844EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30DF360-8F31-4759-A2B3-447188844EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{413CF4DD-C1A7-4F9D-9874-B72B91FC8333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413CF4DD-C1A7-4F9D-9874-B72B91FC8333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413CF4DD-C1A7-4F9D-9874-B72B91FC8333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413CF4DD-C1A7-4F9D-9874-B72B91FC8333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D22708-FD4E-41BF-9ADE-6CC99FF98FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D22708-FD4E-41BF-9ADE-6CC99FF98FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D22708-FD4E-41BF-9ADE-6CC99FF98FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D22708-FD4E-41BF-9ADE-6CC99FF98FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

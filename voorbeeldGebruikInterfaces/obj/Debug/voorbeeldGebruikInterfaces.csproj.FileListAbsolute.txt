@@ -1,0 +1,15 @@
+D:\Bureaublad\ntierOntwikkeling\voorbeeldGebruikInterfaces\bin\Debug\voorbeeldGebruikInterfaces.exe.config
+D:\Bureaublad\ntierOntwikkeling\voorbeeldGebruikInterfaces\bin\Debug\voorbeeldGebruikInterfaces.exe
+D:\Bureaublad\ntierOntwikkeling\voorbeeldGebruikInterfaces\bin\Debug\voorbeeldGebruikInterfaces.pdb
+D:\Bureaublad\ntierOntwikkeling\voorbeeldGebruikInterfaces\obj\Debug\voorbeeldGebruikInterfaces.csprojResolveAssemblyReference.cache
+D:\Bureaublad\ntierOntwikkeling\voorbeeldGebruikInterfaces\obj\Debug\voorbeeldGebruikInterfaces.exe
+D:\Bureaublad\ntierOntwikkeling\voorbeeldGebruikInterfaces\obj\Debug\voorbeeldGebruikInterfaces.pdb
+D:\Bureaublad\voorbeeldGebruikInterfaces\bin\Debug\voorbeeldGebruikInterfaces.exe.config
+D:\Bureaublad\voorbeeldGebruikInterfaces\obj\Debug\voorbeeldGebruikInterfaces.exe
+D:\Bureaublad\voorbeeldGebruikInterfaces\obj\Debug\voorbeeldGebruikInterfaces.pdb
+D:\Bureaublad\voorbeeldGebruikInterfaces\bin\Debug\voorbeeldGebruikInterfaces.exe
+D:\Bureaublad\voorbeeldGebruikInterfaces\bin\Debug\voorbeeldGebruikInterfaces.pdb
+D:\Bureaublad\voorbeeldGebruikInterfaces\obj\Debug\voorbeeldGebruikInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\voorbeeldGebruikInterfaces\bin\Debug\voorbeeldGebruikInterfaces.exe.config
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\voorbeeldGebruikInterfaces\obj\Debug\voorbeeldGebruikInterfaces.exe
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\voorbeeldGebruikInterfaces\obj\Debug\voorbeeldGebruikInterfaces.pdb

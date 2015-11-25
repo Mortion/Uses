@@ -1,0 +1,9 @@
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Release\ChatClient.exe
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Release\ChatClient.pdb
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\bin\Release\ChatClient.exe
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\bin\Release\ChatClient.pdb
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\bin\Release\ChatServer.dll
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\bin\Release\ChatServer.pdb
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Release\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Release\PC.Properties.Resources.resources
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\ChatServer\ChatClient\obj\Release\ChatClient.csproj.GenerateResource.Cache

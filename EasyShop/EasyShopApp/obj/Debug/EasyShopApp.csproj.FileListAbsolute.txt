@@ -1,0 +1,9 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\EasyShop\EasyShopApp\bin\Debug\EasyShopApp.exe.config
+c:\users\jarrik\documents\visual studio 2015\Projects\EasyShop\EasyShopApp\bin\Debug\EasyShopApp.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\EasyShop\EasyShopApp\bin\Debug\EasyShopApp.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\EasyShop\EasyShopApp\obj\Debug\EasyShopApp.csprojResolveAssemblyReference.cache
+c:\users\jarrik\documents\visual studio 2015\Projects\EasyShop\EasyShopApp\obj\Debug\EasyShopApp.LoginForm.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\EasyShop\EasyShopApp\obj\Debug\EasyShopApp.Properties.Resources.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\EasyShop\EasyShopApp\obj\Debug\EasyShopApp.csproj.GenerateResource.Cache
+c:\users\jarrik\documents\visual studio 2015\Projects\EasyShop\EasyShopApp\obj\Debug\EasyShopApp.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\EasyShop\EasyShopApp\obj\Debug\EasyShopApp.pdb

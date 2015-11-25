@@ -1,0 +1,5 @@
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankrekeningLibrary\bin\Debug\BankrekeningLibrary.dll
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankrekeningLibrary\bin\Debug\BankrekeningLibrary.pdb
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankrekeningLibrary\obj\Debug\BankrekeningLibrary.csprojResolveAssemblyReference.cache
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankrekeningLibrary\obj\Debug\BankrekeningLibrary.dll
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankrekeningLibrary\obj\Debug\BankrekeningLibrary.pdb

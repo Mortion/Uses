@@ -1,0 +1,11 @@
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankjeSpelen\bin\Debug\BankjeSpelen.exe.config
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankjeSpelen\bin\Debug\BankjeSpelen.exe
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankjeSpelen\bin\Debug\BankjeSpelen.pdb
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankjeSpelen\bin\Debug\BankrekeningLibrary.dll
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankjeSpelen\bin\Debug\BankrekeningLibrary.pdb
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankjeSpelen\obj\Debug\BankjeSpelen.csprojResolveAssemblyReference.cache
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankjeSpelen\obj\Debug\BankjeSpelen.Properties.Resources.resources
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankjeSpelen\obj\Debug\BankjeSpelen.csproj.GenerateResource.Cache
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankjeSpelen\obj\Debug\BankjeSpelen.exe
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankjeSpelen\obj\Debug\BankjeSpelen.pdb
+c:\users\12675\documents\visual studio 2013\Projects\BankjeSpelen\BankjeSpelen\obj\Debug\BankjeSpelen.frmMain.resources

@@ -1,0 +1,10 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\ERP\ErpLibrary\obj\Debug\ErpLibrary.csprojResolveAssemblyReference.cache
+c:\users\jarrik\documents\visual studio 2015\Projects\ERP\ErpLibrary\bin\Debug\ErpLibrary.dll.config
+c:\users\jarrik\documents\visual studio 2015\Projects\ERP\ErpLibrary\bin\Debug\ErpLibrary.dll
+c:\users\jarrik\documents\visual studio 2015\Projects\ERP\ErpLibrary\bin\Debug\ErpLibrary.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\ERP\ErpLibrary\bin\Debug\EntityFramework.dll
+c:\users\jarrik\documents\visual studio 2015\Projects\ERP\ErpLibrary\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jarrik\documents\visual studio 2015\Projects\ERP\ErpLibrary\bin\Debug\EntityFramework.xml
+c:\users\jarrik\documents\visual studio 2015\Projects\ERP\ErpLibrary\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jarrik\documents\visual studio 2015\Projects\ERP\ErpLibrary\obj\Debug\ErpLibrary.dll
+c:\users\jarrik\documents\visual studio 2015\Projects\ERP\ErpLibrary\obj\Debug\ErpLibrary.pdb

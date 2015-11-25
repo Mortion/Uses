@@ -1,0 +1,9 @@
+c:\users\jarrik\documents\visual studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\jarrik\documents\visual studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\jarrik\documents\visual studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\jarrik\documents\visual studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\jarrik\documents\visual studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\jarrik\documents\visual studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\jarrik\documents\visual studio 2015\Projects\ConsoleApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

@@ -1,0 +1,15 @@
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\Beertjeswinkel\bin\Debug\Beertjeswinkel.exe.config
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\Beertjeswinkel\bin\Debug\Beertjeswinkel.exe
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\Beertjeswinkel\bin\Debug\Beertjeswinkel.pdb
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\Beertjeswinkel\obj\Debug\Beertjeswinkel.csprojResolveAssemblyReference.cache
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\Beertjeswinkel\obj\Debug\Beertjeswinkel.frmBeertjeswinkel.resources
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\Beertjeswinkel\obj\Debug\Beertjeswinkel.Properties.Resources.resources
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\Beertjeswinkel\obj\Debug\Beertjeswinkel.csproj.GenerateResource.Cache
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\Beertjeswinkel\obj\Debug\Beertjeswinkel.exe
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\Beertjeswinkel\obj\Debug\Beertjeswinkel.pdb
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\Beertjeswinkel\bin\Debug\BeertjesLibrary.dll
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\Beertjeswinkel\bin\Debug\BeertjesLibrary.pdb
+c:\users\12675\documents\visual studio 2013\Projects\Beertjeswinkel\Beertjeswinkel\obj\Debug\Beertjeswinkel.frmBeertjeToevoegen.resources
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\Beertjeswinkel\Beertjeswinkel\bin\Debug\Beertjeswinkel.exe.config
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\Beertjeswinkel\Beertjeswinkel\obj\Debug\Beertjeswinkel.exe
+C:\Users\jarrik\Documents\Visual Studio 2015\Projects\Beertjeswinkel\Beertjeswinkel\obj\Debug\Beertjeswinkel.pdb

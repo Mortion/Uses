@@ -1,0 +1,10 @@
+C:\Users\jarrik\documents\visual studio 2015\Projects\ERP\ErpAlgoTest\bin\Debug\ErpAlgoTest.exe.config
+C:\Users\jarrik\documents\visual studio 2015\Projects\ERP\ErpAlgoTest\bin\Debug\ErpAlgoTest.exe
+C:\Users\jarrik\documents\visual studio 2015\Projects\ERP\ErpAlgoTest\bin\Debug\ErpAlgoTest.pdb
+C:\Users\jarrik\documents\visual studio 2015\Projects\ERP\ErpAlgoTest\bin\Debug\ErpLibrary.dll
+C:\Users\jarrik\documents\visual studio 2015\Projects\ERP\ErpAlgoTest\bin\Debug\EntityFramework.dll
+C:\Users\jarrik\documents\visual studio 2015\Projects\ERP\ErpAlgoTest\bin\Debug\ErpLibrary.pdb
+C:\Users\jarrik\documents\visual studio 2015\Projects\ERP\ErpAlgoTest\bin\Debug\EntityFramework.xml
+C:\Users\jarrik\documents\visual studio 2015\Projects\ERP\ErpAlgoTest\obj\Debug\ErpAlgoTest.csprojResolveAssemblyReference.cache
+C:\Users\jarrik\documents\visual studio 2015\Projects\ERP\ErpAlgoTest\obj\Debug\ErpAlgoTest.exe
+C:\Users\jarrik\documents\visual studio 2015\Projects\ERP\ErpAlgoTest\obj\Debug\ErpAlgoTest.pdb
